@@ -1,0 +1,26 @@
+<template>
+  <div class="about">
+    <div class="content" style="font: 12px AppleSDGothicNeo-Regular, dotum, sans-serif; letter-spacing: -1px; width: 640px; height: 718px; color: rgb(51, 51, 51); position: relative;">
+      <div style="height: 360px;"><a href="https://map.kakao.com/?urlX=432828&amp;urlY=1068430&amp;itemId=1376715985&amp;q=%EC%84%B8%EB%A6%BC%EC%8A%A4%ED%8B%B8&amp;srcid=1376715985&amp;map_type=TYPE_MAP&amp;from=roughmap" target="_blank">
+      <img class="map" src="http://t1.daumcdn.net/roughmap/imgmap/215bc8127192106ce9402f4f647e63883fbee736f115cd01a8818672d624b6af" width="638" height="358" style="border: 1px solid rgb(204, 204, 204);"></a>
+      </div>
+      <div style="overflow: hidden; padding: 7px 11px; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 0px 0px 2px 2px; background-color: rgb(249, 249, 249);">
+        <a href="https://map.kakao.com" target="_blank" style="float: left;">
+        <img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/common/logo_kakaomap.png" width="72" height="16" alt="카카오맵" style="display:block;width:72px;height:16px">
+        </a><div style="float: right; position: relative; top: 1px; font-size: 11px;">
+          <a target="_blank" href="https://map.kakao.com/?from=roughmap&amp;srcid=1376715985&amp;confirmid=1376715985&amp;q=%EC%84%B8%EB%A6%BC%EC%8A%A4%ED%8B%B8&amp;rv=on" style="float:left;height:15px;padding-top:1px;line-height:15px;color:#000;text-decoration: none;">로드뷰</a><span style="width: 1px;padding: 0;margin: 0 8px 0 9px;height: 11px;vertical-align: top;position: relative;top: 2px;border-left: 1px solid #d0d0d0;float: left;"></span><a target="_blank" href="https://map.kakao.com/?from=roughmap&amp;eName=%EC%84%B8%EB%A6%BC%EC%8A%A4%ED%8B%B8&amp;eX=432828&amp;eY=1068430" style="float:left;height:15px;padding-top:1px;line-height:15px;color:#000;text-decoration: none;">길찾기</a><span style="width: 1px;padding: 0;margin: 0 8px 0 9px;height: 11px;vertical-align: top;position: relative;top: 2px;border-left: 1px solid #d0d0d0;float: left;"></span><a target="_blank" href="https://map.kakao.com?map_type=TYPE_MAP&amp;from=roughmap&amp;srcid=1376715985&amp;itemId=1376715985&amp;q=%EC%84%B8%EB%A6%BC%EC%8A%A4%ED%8B%B8&amp;urlX=432828&amp;urlY=1068430" style="float:left;height:15px;padding-top:1px;line-height:15px;color:#000;text-decoration: none;">지도 크게 보기</a></div></div><div><span style="border-bottom:1px solid rgb(242, 242, 242);position:absolute;left:30px;top:402px;width:600px;height:86px"></span></div><div><br style="display: none;"><span style="color:rgb(34, 34, 34);font-weight:700;display:block;float:left;position:absolute;left:30px;top:422px;width:78px">주소</span><span style="color:rgb(34, 34, 34);display:block;overflow:hidden;position:absolute;left:108px;top:422px;width:522px">경기 시흥시 오이도로 21 1234호</span><span style="color:rgb(34, 34, 34);font-weight:700;display:block;float:left;position:absolute;left:30px;top:450px;width:78px">전화</span><span style="color:rgb(34, 34, 34);display:block;overflow:hidden;position:absolute;left:108px;top:450px;width:522px">031-499-4668</span></div><div><span style="border-bottom:1px solid rgb(242, 242, 242);position:absolute;left:30px;top:489px;width:600px;height:83px"></span><span style="position:absolute;left:30px;top:534px"><img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_bus01.png" width="18" height="18"></span><a href="https://map.kakao.com/?from=roughmap&amp;busStopId=BS81490" target="_blank" style="text-decoration: none;color: #333;position:absolute;left:54px;top:534px;width:84px;height:16px">오이도스틸랜드</a><span style="position:absolute;left:154px;top:534px"><img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_bus02.png" width="18" height="18"></span><a href="https://map.kakao.com/?from=roughmap&amp;busStopId=BS81491" target="_blank" style="text-decoration: none;color: #333;position:absolute;left:178px;top:534px;width:84px;height:16px">오이도스틸랜드</a></div><div><br style="display: none;"><span style="font-weight:700;position:absolute;left:30px;top:509px">주변 정류장</span></div><div><span style="border-bottom:1px solid rgb(242, 242, 242);position:absolute;left:30px;top:573px;width:600px;height:97px"></span><span style="position:absolute;left:30px;top:618px"><span style="display: inline-block; overflow: hidden; width: 26px; height: 16px;"><img src="https://t1.daumcdn.net/localimg/localimages/07/2018/pc/ico_traffic_180531.png" style="margin-left: -150px; margin-top: -410px;"></span></span><a href="https://map.kakao.com/?from=roughmap&amp;busInfoId=B7551&amp;busStopId=BS81490" target="_blank" style="text-decoration: none;color: #333;position:absolute;left:62px;top:618px">99</a></div><div><br style="display: none;"><span style="font-weight:700;position:absolute;left:30px;top:593px">주변 버스</span></div><div><span style="border-bottom:0px none rgb(51, 51, 51);position:absolute;left:30px;top:671px;width:600px;height:57px"></span><span style="line-height:17px;position:absolute;left:108px;top:691px">방문전 연락 부탁드립니다.</span></div><div><br style="display: none;"><span style="font-weight:700;position:absolute;left:30px;top:691px;width:78px">메모</span></div>
+          </div>
+
+  </div>
+</template>
+<style scoped>
+.about{
+width: 70%;
+margin-left: 15%;
+}
+.content{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
